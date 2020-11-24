@@ -1,7 +1,7 @@
+//make a package named project.TDD
 package project.TDD;
 
 public class First2Chars {
-
 	public String check(String string) {
 		int stringlength=string.length();
 		if(stringlength>=2)
